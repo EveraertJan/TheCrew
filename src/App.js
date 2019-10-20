@@ -81,6 +81,7 @@ class App extends Component {
               <div className="col-xs-12 col-sm-7 footer">
                 {" "}
                 <a href="/noprivacy/">No Privacy Policy</a> | &copy; Thecrew.cc{" "}
+                | Hosted and done
               </div>
             </div>
           </footer>
